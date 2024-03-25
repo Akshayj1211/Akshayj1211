@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Akshay 
+- 👀 I’m interesested in analytics skills.
+- 🌱 I’m currently learning Advance SQL & Python, Also pursuing for MBA in SCM.
+- ⚡ Currently Working in Supply Chain Management.
